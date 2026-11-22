@@ -217,48 +217,11 @@ Research exploration into marine communication systems and intelligent analysis.
 ---
 
 
-## ◈ 06 — ENGINEERING BLUEPRINTS
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/DIVISION-SYSTEM%20ARCHITECTURE-35DDF5?style=for-the-badge&labelColor=101820"/>
 
-</div>
 
-| RESEARCH AREA | ENGINEERING FOCUS |
-|---|---|
-| 🧠 Neural Networks | Model architecture & intelligent learning |
-| 👁️ Computer Vision | Image processing & visual intelligence |
-| 🛰️ Space AI | Satellite imagery & aerospace applications |
-| 🤖 AI Systems | LLM integration & intelligent assistants |
-
-**DESIGN PHILOSOPHY**
-
-`UNDERSTAND → DESIGN → ENGINEER → TEST → IMPROVE`
-
----
-
-## ◈ 07 — RESEARCH & DEVELOPMENT LOG
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/R%26D%20LAB-EXPERIMENTAL%20MODE-C99B3B?style=for-the-badge&labelColor=101820"/>
-
-</div>
-
-| STATUS | RESEARCH / LEARNING |
-|---|---|
-| 🔄 Learning | Deep Learning & Neural Networks |
-| 🔄 Exploring | Transformers & Large Language Models |
-| 🔄 Developing | A.L.I.T.A. Personal AI |
-| 🔄 Exploring | AI applications in Space Technology |
-| 🔄 Practising | Python & Problem Solving |
-
-*Every experiment is a step towards better engineering.*
-
----
-
-## ◈ 08 — FUTURE DIRECTIVES
+## ◈ 06 — FUTURE DIRECTIVES
 
 <div align="center">
 
@@ -300,7 +263,7 @@ Research exploration into marine communication systems and intelligent analysis.
 
 ---
 
-## ◈ 08 — TRANSMISSION CHANNELS
+## ◈ 07 — TRANSMISSION CHANNELS
 
 <div align="center">
 
