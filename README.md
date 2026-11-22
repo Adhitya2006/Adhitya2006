@@ -1,58 +1,122 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Adhitya and I'm a AIDS Student </h2>
 
-###
+<div align="center">
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+# 👋 Hey, I'm Adhitya Balakrishnaa
+
+### AI & Machine Learning Engineer in the Making 🚀
+
+**Building Intelligent Systems | Exploring AI | Looking Beyond Earth**
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+ML;Python+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+AI+for+Space+Technology;Learning.+Building.+Innovating." />
+</p>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🧠 About Me
 
-###
+```python
+class Adhitya:
+    def __init__(self):
+        self.role = "AI & Data Science Student"
+        self.focus = ["Artificial Intelligence", "Machine Learning"]
+        self.interests = ["Computer Vision", "Space Technology"]
+        self.languages = ["Python", "C++", "SQL"]
+        self.environment = ["Ubuntu", "Windows"]
+        self.currently = "Building intelligent applications"
+        self.goal = "Become an AI/ML Engineer"
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    def mission(self):
+        return "Turning ideas into intelligent solutions."
+
+me = Adhitya()
+```
+
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 🤖 Interested in AI, ML, Deep Learning & Computer Vision
+- 🛰️ Exploring the intersection of AI and Space Technology
+- 💻 Building projects and strengthening problem-solving skills
+- 🌱 Always learning, experimenting and improving
+
+---
+
+## ⚡ Tech Arsenal
+
+### Programming & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,js,react,mysql,git,github,vscode"/>
+</p>
+
+### AI / ML & Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,anaconda"/>
+</p>
+
+### Tools & Environment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,arduino,jupyter"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🛰️ SpaceLens AI | AI-based spacecraft image analysis |
+| 🎮 GameSense AI | Gaming performance analytics using AI |
+| 🧠 A.L.I.T.A. | Personal AI assistant |
+| 🌊 AquaMind | Marine communication intelligence research |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
 </div>
 
-###
+---
+
+<div align="center">
+
+### 🌌 "The future belongs to those who build it."
+
+**Think. Build. Learn. Repeat.**
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+
+</div>
