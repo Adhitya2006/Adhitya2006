@@ -216,23 +216,87 @@ Research exploration into marine communication systems and intelligent analysis.
 
 ---
 
-## ◈ 06 — ACHIEVEMENT PROTOCOL
+
+## ◈ 06 — ENGINEERING BLUEPRINTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<img src="https://img.shields.io/badge/DIVISION-SYSTEM%20ARCHITECTURE-35DDF5?style=for-the-badge&labelColor=101820"/>
 
 </div>
+
+| RESEARCH AREA | ENGINEERING FOCUS |
+|---|---|
+| 🧠 Neural Networks | Model architecture & intelligent learning |
+| 👁️ Computer Vision | Image processing & visual intelligence |
+| 🛰️ Space AI | Satellite imagery & aerospace applications |
+| 🤖 AI Systems | LLM integration & intelligent assistants |
+
+**DESIGN PHILOSOPHY**
+
+`UNDERSTAND → DESIGN → ENGINEER → TEST → IMPROVE`
 
 ---
 
-## ◈ 07 — CONTRIBUTION MATRIX
+## ◈ 07 — RESEARCH & DEVELOPMENT LOG
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080C12&color=35DDF5&line=35DDF5&point=C99B3B&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+<img src="https://img.shields.io/badge/R%26D%20LAB-EXPERIMENTAL%20MODE-C99B3B?style=for-the-badge&labelColor=101820"/>
 
 </div>
+
+| STATUS | RESEARCH / LEARNING |
+|---|---|
+| 🔄 Learning | Deep Learning & Neural Networks |
+| 🔄 Exploring | Transformers & Large Language Models |
+| 🔄 Developing | A.L.I.T.A. Personal AI |
+| 🔄 Exploring | AI applications in Space Technology |
+| 🔄 Practising | Python & Problem Solving |
+
+*Every experiment is a step towards better engineering.*
+
+---
+
+## ◈ 08 — FUTURE DIRECTIVES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NEXT%20HORIZON-MISSION%20PLANNING-35DDF5?style=for-the-badge&labelColor=101820"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI ENGINEERING
+
+- Advanced Machine Learning
+- Deep Learning
+- Computer Vision
+- LLM Engineering
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ SPACE TECHNOLOGY
+
+- Aerospace AI
+- Satellite Intelligence
+- Autonomous Systems
+- Space Research
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**NEXT STOP: BUILD SOMETHING EXTRAORDINARY.**
+
+</div>
+
 
 ---
 
