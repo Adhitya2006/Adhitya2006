@@ -1,111 +1,260 @@
 
-<div align="center">
-
-# 👋 Hey, I'm Adhitya Balakrishnaa
-
-### AI & Machine Learning Engineer in the Making 🚀
-
-**Building Intelligent Systems | Exploring AI | Looking Beyond Earth**
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+ML;Python+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+AI+for+Space+Technology;Learning.+Building.+Innovating." />
-</p>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class Adhitya:
-    def __init__(self):
-        self.role = "AI & Data Science Student"
-        self.focus = ["Artificial Intelligence", "Machine Learning"]
-        self.interests = ["Computer Vision", "Space Technology"]
-        self.languages = ["Python", "C++", "SQL"]
-        self.environment = ["Ubuntu", "Windows"]
-        self.currently = "Building intelligent applications"
-        self.goal = "Become an AI/ML Engineer"
-
-    def mission(self):
-        return "Turning ideas into intelligent solutions."
-
-me = Adhitya()
-```
-
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 🤖 Interested in AI, ML, Deep Learning & Computer Vision
-- 🛰️ Exploring the intersection of AI and Space Technology
-- 💻 Building projects and strengthening problem-solving skills
-- 🌱 Always learning, experimenting and improving
-
----
-
-## ⚡ Tech Arsenal
-
-### Programming & Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,js,react,mysql,git,github,vscode"/>
-</p>
-
-### AI / ML & Data Science
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,anaconda"/>
-</p>
-
-### Tools & Environment
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,arduino,jupyter"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🛰️ SpaceLens AI | AI-based spacecraft image analysis |
-| 🎮 GameSense AI | Gaming performance analytics using AI |
-| 🧠 A.L.I.T.A. | Personal AI assistant |
-| 🌊 AquaMind | Marine communication intelligence research |
-
----
-
-## 📊 GitHub Analytics
+<!-- ====================================================== -->
+<!-- ADHITYA.exe | NEXUS ENGINEERING UNIVERSE               -->
+<!-- PERSONAL DEVELOPER PROFILE                             -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,30:10283A,65:13516A,100:050810&height=240&section=header&text=ADHITYA.exe&fontSize=70&fontColor=EAFBFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20ENGINEERING%20%7C%20SPACE&descAlignY=60&descSize=14"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=35DDF5&center=true&vCenter=true&width=700&lines=INITIALIZING+A.L.I.T.A...;AI+%26+MACHINE+LEARNING+ENTHUSIAST;BUILDING+INTELLIGENT+APPLICATIONS;EXPLORING+COMPUTER+VISION;BEYOND+CODE.+BEYOND+LIMITS." />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/OPERATOR-ADHITYA-C99B3B?style=for-the-badge&labelColor=101820"/>
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-20BFE0?style=for-the-badge&labelColor=101820"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-24A879?style=for-the-badge&labelColor=101820"/>
+
+<br/><br/>
+
+**ENGINEERING TOMORROW. EXPLORING BEYOND.**
 
 </div>
 
 ---
 
-## 🐍 Contribution Journey
+## ◈ 01 — OPERATOR PROFILE
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### ADHITYA BALAKRISHNAA
+
+🎓 B.Tech Artificial Intelligence & Data Science
+
+🤖 Aspiring AI / ML Engineer
+
+🧠 Interested in intelligent systems and deep learning
+
+👁️ Exploring computer vision and image intelligence
+
+🛰️ Fascinated by AI applications in space technology
+
+💻 Building software, experimenting and learning continuously
+
+**CURRENT MISSION**
+
+Develop strong engineering foundations and transform ideas into practical intelligent applications.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="Animated coding illustration"/>
+
+**A.L.I.T.A.**
+
+Personal AI System
+
+`SYSTEM ONLINE`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ 02 — TECHNOLOGY ARMOURY
+
+### 💻 Programming Languages
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,mysql&theme=dark" alt="Programming languages"/>
+</div>
+
+### 🧠 AI / Machine Learning / Data Science
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,anaconda,jupyter&theme=dark" alt="AI and data science technologies"/>
+</div>
+
+### 🛠️ Developer Tools & Environment
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,arduino&theme=dark" alt="Developer tools"/>
+</div>
+
+### 🔬 Currently Exploring
+
+<div align="left">
+<img src="https://img.shields.io/badge/Deep%20Learning-Research-173B50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-Exploring-173B50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Exploring-173B50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-Exploring-173B50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Space%20AI-Research-173B50?style=for-the-badge"/>
+</div>
+
+---
+
+## ◈ 03 — ENGINEERING DIVISIONS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 NEURAL SYSTEMS
+
+Artificial Intelligence & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Predictive Modelling
+- Intelligent Applications
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ VISION LAB
+
+Computer Vision & Image Intelligence
+
+- Image Processing
+- CNN Architectures
+- Object Detection
+- Image Classification
+- Visual Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ ORBITAL SYSTEMS
+
+AI & Space Technology
+
+- Satellite Image Analysis
+- Space Applications
+- Aerospace Intelligence
+- Autonomous Systems
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ SOFTWARE FORGE
+
+Engineering & Development
+
+- Python Applications
+- Git & Version Control
+- Linux Development
+- AI Product Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ 04 — MISSION ARCHIVE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://img.shields.io/badge/RESEARCH%20%26%20DEVELOPMENT-ACTIVE-C99B3B?style=for-the-badge&labelColor=101820"/>
+
+</div>
+
+### 🚀 MISSION 001 — SPACELENS AI
+
+**SPACECRAFT IMAGE ANALYSIS & DAMAGE DETECTION**
+
+AI-based image analysis for identifying potential spacecraft solar panel damage.
+
+`Python` `TensorFlow` `CNN` `Computer Vision`
+
+### 🎮 MISSION 002 — GAMESENSE AI
+
+**AI-POWERED GAMING ANALYTICS**
+
+Analysing gameplay recordings to understand player behaviour, performance and improvement opportunities.
+
+`Python` `OpenCV` `Machine Learning`
+
+### 🤖 MISSION 003 — A.L.I.T.A.
+
+**PERSONAL AI ASSISTANT**
+
+Developing a modular personal AI assistant with intelligent interaction and automation capabilities.
+
+`Python` `LLM Integration` `Modular Architecture`
+
+### 🌊 MISSION 004 — AQUAMIND
+
+**MARINE COMMUNICATION INTELLIGENCE**
+
+Research exploration into marine communication systems and intelligent analysis.
+
+`AI Research` `Communication Systems`
+
+---
+
+## ◈ 05 — GITHUB COMMAND CENTRE
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=080C12&title_color=35DDF5&icon_color=C99B3B&text_color=EAFBFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080C12&title_color=35DDF5&text_color=EAFBFF"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=080C12&ring=35DDF5&fire=C99B3B&currStreakLabel=35DDF5"/>
+
+</div>
+
+---
+
+## ◈ 06 — ACHIEVEMENT PROTOCOL
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## ◈ 07 — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080C12&color=35DDF5&line=35DDF5&point=C99B3B&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## ◈ 08 — TRANSMISSION CHANNELS
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-ENGINEERING%20ARCHIVE-101820?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL%20NETWORK-101820?style=for-the-badge&logo=linkedin&logoColor=35DDF5"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-TRANSMISSION-101820?style=for-the-badge&logo=gmail&logoColor=C99B3B"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=13516A&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -113,10 +262,12 @@ me = Adhitya()
 
 <div align="center">
 
-### 🌌 "The future belongs to those who build it."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,40:10283A,80:13516A,100:050810&height=130&section=footer"/>
 
-**Think. Build. Learn. Repeat.**
+### A.L.I.T.A. // SYSTEM STANDBY
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+**THE FUTURE IS NOT A DESTINATION. IT'S AN ENGINEERING CHALLENGE.**
+
+`ADHITYA.exe // END OF TRANSMISSION`
 
 </div>
