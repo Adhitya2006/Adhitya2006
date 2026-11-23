@@ -38,7 +38,7 @@
 
 🧠 Interested in intelligent systems and deep learning
 
-👁️ Exploring computer vision and image intelligence
+💾 Exploring computer vision and image intelligence
 
 🛰️ Fascinated by AI applications in space technology
 
